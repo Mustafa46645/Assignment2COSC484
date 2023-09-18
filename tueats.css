@@ -1,0 +1,26 @@
+table {
+    width: 75%;
+    border: 1px solid black;
+    background-color: #808080;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th {
+    font-weight: bold;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+
+.main-site-link {
+    color: #0072c6;
+    text-decoration: none;
+}
+
+.main-site-link:hover {
+    color: #FFBB00;
+}
